@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	background-color: rgb(137,0,0);
+	color: rgb(255,255,255);
+	font-family: 'Raleway', sans-serif;
+}
+h1, p{text-align:center;
+font-size:200px;
+}
+
+ul {
+	text-align: center;
+	list-style-type:none;
+}
