@@ -1,11 +1,11 @@
 body {
 	text-align: center;
-	background-color: url("http://www.ianvisits.co.uk/blog/wp-content/uploads/2013/03/bookshelf_empty.png");
+	background-color: rgb(137,0,0);
 	color: rgb(255,255,255);
-	font-family: 'Raleway', sans-serif;
+	font-family: Calibri;
 }
 h1, p{text-align:center;
-font-size:200px;
+font-size:20px;
 }
 
 ul {
