@@ -1,15 +1,29 @@
 header{
     border:1px black solid;
     padding:20px;
-    background-color:navy;
+    background-color:#FFED74;
 }
 nav{
     border:1px black solid;
     padding:20px;
-    background-color:gray;
+    background-color:#E8C66A;
+}
+aside{
+    border:1px black solid;
+    padding:20px;
+    background-color:#FFC675;
+}
+article{
+    border:1px black solid;
+    padding:20px;
+    background-color:#E89C6C;
 }
 footer{
     border:1px solid black;
     padding:20px;
-    background-color:purple;
+    background-color:#FF957E;
 }
+div/section{
+    border:1px black solid;
+    padding:20px;
+    background-color:#FFE2B8;
