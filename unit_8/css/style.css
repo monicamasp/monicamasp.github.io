@@ -72,3 +72,12 @@ div/section{
     border:1px black solid;
     padding:2%;
     background-color:#FFE2B8;
+}
+
+
+@media screen only (max-width: 600px){
+
+.clearfix:after{
+    clear:both;
+}
+}
