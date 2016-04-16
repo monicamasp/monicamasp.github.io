@@ -79,25 +79,6 @@ div/section{
     }
 
 
-@media screen only (max-width: 500px) {
-
-#two_column{
-    float: none;
-}
-
-.clearfix{
-    float: none;
-}
-
-article {
-    float: none;
-}
-
-}
-
-
-
-
 
 
 
