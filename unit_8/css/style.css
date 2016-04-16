@@ -2,6 +2,7 @@ header{
     border:1px black solid;
     padding:20px;
     background-color:#FFED74;
+    text-align: center;
 }
 nav{
     border:1px black solid;
@@ -11,8 +12,9 @@ nav{
 
 ul{
     padding: 2%;
-    border: 1px black solic;
+    border: 1px black solid;
     text-align: center;
+    float: left;
 }
 
 #wrapper{
