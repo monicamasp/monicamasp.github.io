@@ -23,12 +23,14 @@ ul {
 }
 
 #two_column{
+    margin: 2%;
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 2%;
 }
 
 #left{
+    margin: 2%;
     background-color: #E582A2;
     border: 1px black solid;
     padding: 2%;
@@ -37,6 +39,7 @@ ul {
 }
 
 #right{
+    margin: 2%;
     background-color: #E55B88;
     border: 1px black solid;
     padding: 2%;
