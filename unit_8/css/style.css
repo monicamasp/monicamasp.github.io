@@ -9,13 +9,12 @@ nav{
     border:1px black solid;
     padding:20px;
     background-color:#E8C66A;
-    float: none;
+    clear: both;
 }
 
 ul {
     padding: 2%;
     border: 1px black solid;
-    float: left;
     text-align: center;
 }
 
