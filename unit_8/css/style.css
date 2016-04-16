@@ -1,22 +1,18 @@
 header{
     border:1px black solid;
-    text-align: center;
     padding:20px;
     background-color:#FFED74;
 }
-
 nav{
     border:1px black solid;
     padding:20px;
     background-color:#E8C66A;
-    clear: both;
 }
 
-ul {
+ul{
     padding: 2%;
-    border: 1px black solid;
+    border: 1px black solic;
     text-align: center;
-    float: left;
 }
 
 #wrapper{
@@ -24,14 +20,12 @@ ul {
 }
 
 #two_column{
-    margin: 2%;
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 2%;
 }
 
 #left{
-    margin: 2%;
     background-color: #E582A2;
     border: 1px black solid;
     padding: 2%;
@@ -40,7 +34,6 @@ ul {
 }
 
 #right{
-    margin: 2%;
     background-color: #E55B88;
     border: 1px black solid;
     padding: 2%;
@@ -57,14 +50,15 @@ clear: both;
 height: 0;
 }
 
-aside {
-    border: 1px black solid;
-    padding: 2%;
+aside{
+    border:1px black solid;
+    padding:2%;
     background-color:#FFC675;
+    clear: both;
 }
-article {
-    border: 1px black solid;
-    padding: 2%;
+article{
+    border:1px black solid;
+    padding:2%;
     background-color:#E89C6C;
 }
 footer{
@@ -76,13 +70,3 @@ div/section{
     border:1px black solid;
     padding:2%;
     background-color:#FFE2B8;
-    }
-
-
-
-
-
-
-
-
-
