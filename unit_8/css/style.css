@@ -7,8 +7,13 @@ nav{
     border:1px black solid;
     padding:20px;
     background-color:#E8C66A;
+    float: left;
 }
 
+ul {
+    padding: 2%;
+    border: 1px black solid;
+}
 #wrapper{
     padding: 10%;
 }
@@ -63,3 +68,25 @@ div/section{
     border:1px black solid;
     padding:2%;
     background-color:#FFE2B8;
+    }
+
+
+@media screen only (max-width: 500px) {
+
+#two_column{
+    float:none;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
