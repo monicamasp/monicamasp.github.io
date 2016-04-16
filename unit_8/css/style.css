@@ -49,14 +49,14 @@ clear: both;
 height: 0;
 }
 
-aside{
-    border:1px black solid;
-    padding:2%;
+aside {
+    border: 1px black solid;
+    padding: 2%;
     background-color:#FFC675;
 }
-article{
-    border:1px black solid;
-    padding:2%;
+article {
+    border: 1px black solid;
+    padding: 2%;
     background-color:#E89C6C;
 }
 footer{
@@ -71,7 +71,7 @@ div/section{
     }
 
 
-@media screen only (max-width: 500px) {
+@media screen only (max-width: 900px) {
 
 #two_column{
     float:none;
