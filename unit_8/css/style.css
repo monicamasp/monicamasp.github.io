@@ -74,9 +74,12 @@ div/section{
 @media screen only (max-width: 900px) {
 
 #two_column{
-    float:none;
+    float: none;
 }
 
+.clearfix{
+    float: none;
+}
 
 }
 
